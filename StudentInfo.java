@@ -31,7 +31,7 @@ public class StudentInfo {
 		System.out.println("Divation is: "+c);}
 	}
 		
-		
+		System.out.println("Divation is: "+c);}
 		
 
 	}
